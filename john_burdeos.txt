@@ -1,0 +1,7 @@
+Aloha, my name is John Burdeos. I am majoring in Computer Science and graduating this semester.
+
+My final project idea is called Fakebook. It is a Facebook-like app where users can create accounts, make posts, and comment on other user's posts.
+It will have 3 entities such as: Users, Posts, and Comments.
+Users - create accounts
+Posts - users can share or post status updates
+Comments - replies that users write under posts
