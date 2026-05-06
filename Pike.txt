@@ -1,0 +1,4 @@
+Hello, my name is Jackson Pike. I am a Senior, from Utah and will graduate this fall. 
+
+For my final project, my idea (which I hope is in line with requirements) is to create 
+a social movie review project. It would have the models of User, Movie, and Review.
