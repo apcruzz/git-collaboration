@@ -1,0 +1,3 @@
+I am Bill from Hong Kong, I am graduating this semester
+Final project idea:
+a web like teamspeak that allows users to have account and chat/create post online
