@@ -1,0 +1,8 @@
+
+Aloha, My name is Shuhada Yasumura.
+I'm Japanese and I'm going to graduate BYUH next semester.
+
+My Final Project Idea:
+
+My project will be a web application for reviewing board games. Users can create accounts, browse a list of board games, and write reviews with ratings and comments.
+The application will include three main entities: Users, Games, Reiviews. Users can post multiple reviews and each game can have multiple reviews from different users.
