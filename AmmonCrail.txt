@@ -1,0 +1,3 @@
+Hi, my name is Ammon Crail. I am a student learning how to use GitHub and submit pull requests.
+
+My final project idea is to create a recipe organizer that lets users save recipe names, ingredients, and cooking steps. The name of the project website will be ForKingRecipe. The kings of recipes for anyone looking to cook for their family or for themselves. 
