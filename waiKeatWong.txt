@@ -4,4 +4,5 @@ I'm from Malaysia and will be graduating in Winter 27
 
 My final project idea:
 Creating a findMy that would be compatible for both android and IOS devices. Users will be required to have an account or login.
-It will work similarly to the findMy app from apple, but it will include features such as sending messages and notifcations on the receivers side
+It will work similarly to the findMy app from apple, but 
+it will include features such as sending messages and notifcations on the receivers side.
