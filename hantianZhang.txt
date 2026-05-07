@@ -1,0 +1,7 @@
+I am Hantian Zhang, from China, major in computer science.
+
+For my final project, I plan to build a campus information sharing web application called Campus Connect. 
+The app will allow students to log in with a student ID or school account and share useful campus information. 
+Students can create posts about selling items, car rental, campus services, map locations, or other school-related information. 
+My three main entities will be Users, Posts, and Categories. Users can create posts, and each post can belong to a category so students can find information more easily. 
+The backend will store user accounts, post information, and post categories, and the frontend will allow students to browse and create campus posts.
