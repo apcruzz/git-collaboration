@@ -1,0 +1,2 @@
+Hi, I am Yuki Kakuda.
+My final project idea is a platform to find someone to work on projects with. On the main page, user can see the posts and post project to find someone. After you applied to any project, the person who posted the project can see who applied on the person's my profile page.
