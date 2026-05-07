@@ -1,3 +1,5 @@
-Hi, my name is Mervin Raja and I am a Computer Science student. 
+Hi, my name is Mervin Raja and I am a Senior Computer Science student. 
 
-Final Project Idea: SmartDesk - An AI-powered technical support app for users to solve technical issues step by step using built-in knowledge base and AI chat feature to ask questions and receive feedback. 
+Final Project Idea: ClientPortal - A web-based IT client support 
+management app where IT consultants can manage clients and track 
+support requests.
