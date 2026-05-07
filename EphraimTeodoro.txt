@@ -1,0 +1,6 @@
+Aloha, I am from the Philippines and ill be graduating this fall 2026 as a computer science major.
+
+My project is called Campus Cuts. Campus Cuts is a student-focused platform that connects student barbers with students looking for 
+affordable and convenient haircuts on campus. Barbers can create profiles, showcase their work, manage waiting lists, and accept
+bookings, while students can browse barbers, join queues, schedule appointments, and leave reviews. Designed specifically 
+for college communities, the app helps make the campus barber experience more organized, accessible, and community-driven.
