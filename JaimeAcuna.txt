@@ -1,0 +1,6 @@
+Aloha,
+My name is Jaime Aaron V. Acuña III.
+I am from the Philippines.
+
+I am thinking of creating an app where people can post recipes.
+People can also give reviews for other people's post in this app.
