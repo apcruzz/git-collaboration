@@ -1,0 +1,3 @@
+I am Dylan, I am majoring in Computer Science.
+
+Project Idea: A website that creates flashcards by using tokens from the anthropic api. Users upload a PDF or lecture notes, and the LLM generates flashcards. The flashcards can be saved to a user's account to access them later, or to download them with the .apkg extension. Access is restricted to verified .edu emails. Users are allotted a weekly token limit. 
