@@ -1,0 +1,8 @@
+Hi, my name is Mervin Raja and I am a Senior Computer Science student. 
+
+
+Final Project Idea: ClientPortal - A web-based IT client support 
+management app where IT consultants can manage clients and track 
+support requests. The app will have three entities: Users (IT 
+consultants), Clients (companies or individuals receiving support), 
+and Tickets (support requests submitted for a client).
