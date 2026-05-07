@@ -1,0 +1,22 @@
+Hi, I'm Sasagi Kageyama. I'm a student at BYU-Hawaii and this is my
+first time taking CS 490R. I've done a bit of programming before, but
+I haven't really worked with Git in a team setting yet, so this class
+should be a good chance to get used to that.
+
+For my final project I want to build a workout sharing app. I lift a
+few times a week and I always end up texting my friends "what did you
+do at the gym today" or sending photos of my notes, so I thought it
+would be fun to make an actual app for that. Basically Users can make
+an account, post the workout they did, and other Users can leave
+Comments on it - things like "nice", "how heavy did you go", or just
+hyping each other up.
+
+So my three entities are Users, Workouts, and Comments. A User is just
+a person with an account. A Workout is one training session - date,
+what exercises, sets/reps, maybe a short note. A Comment is something
+another User writes on someone else's Workout.
+
+For the first part of the class I'll focus on the backend (storing the
+data, login, the API), and then in the last couple weeks I'll add a
+web frontend so you can actually use it in the browser. Excited to
+see how it turns out.
