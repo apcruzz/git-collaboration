@@ -1,0 +1,17 @@
+My name is Tomoki, from Japan. This is my last semester.
+
+For my final project, I will build LLMark, an open-source LLM Benchmark Tracker that fetches and visualizes performance scores from the Hugging Face Open LLM Leaderboard API.
+The main entity, Benchmark Result, supports full CRUD operations, and the additional entity, Model, manages model profiles. The React frontend will feature an interactive comparison 
+dashboard for comparing models side-by-side across benchmarks such as MMLU and HumanEval.
+
+Main Entity: Benchmark Result
+
+- Create — form to manually add a benchmark score
+- Update — edit an existing benchmark result
+- Delete — remove a result, with buttons on the list/detail page
+
+Additional Entity: Model
+
+- View All — list of all tracked LLM models
+- View One — detail page for a single model showing its benchmark scores
+- Create — form to register a new model
