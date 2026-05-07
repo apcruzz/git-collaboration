@@ -1,0 +1,6 @@
+Hi, my name is Jun.
+I am hoping to learn how to use GitHub more efficiently and confidently as well as learning how to design and build a web application from this class.
+ 
+A few ideas I have for my final project:  
+An Event Incident Reporting App for the department I work with. Employees will be able to log in, view a list of the events, and file incident reports for issues such as dress code violations,injuries or fights during intramurals. My three entities will be Events, Users, and Incidents.  
+A second idea is a GPA and scholarship Tracking App that helps students monitor and track their GPA across several semesters and find scholarships thatthey qualify for. Students can enter their grades, or even predict what grades they need for a desired GPA and get matched to scholarships accordingly. The three entities will be Users, Courses, and Scholarships. 
