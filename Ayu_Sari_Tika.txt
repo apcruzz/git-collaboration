@@ -1,0 +1,10 @@
+Hi, my name is Tika. I am excited to learn how to design and build a real-world web application from start to finish. I want to improve my understanding of frontend and backend development, database structure, authentication systems, and responsive UI/UX design. By the end of the class, I hope to gain more confidence in building scalable projects and turning ideas into usable products that solve real problems.
+
+For my web application project, I am thinking to create a customizable conference and event management platform for BYUH events and conferences. The idea came from seeing how many campus conferences currently use expensive third-party applications that are not always flexible or easy to customize. The platform would allow students, faculty, staff, and outside guests to log in and access event information in one place.
+
+The application would include different user roles such as participants, speakers, moderators, and organizers/admins. Users could browse upcoming events and access dashboards with schedules, speaker information, announcements, maps, and other conference resources. Organizers would also have tools to manage schedules, customize branding, and post updates for attendees.
+
+Other web application ideas I have considered:
+- A digital mindfulness and reflection app for saving memories and gratitude entries
+- A study and productivity platform with focus timers and customizable study spaces
+- An art and wallpaper sharing platform organized by moods and aesthetics
