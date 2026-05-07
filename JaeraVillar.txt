@@ -1,0 +1,5 @@
+Hello! My name is Jaera Villar, and I am currently studying Computer Science and Accounting. I am interested in learning more about technology and how it can be used to improve and simplify accounting processes. One of my main interests is FinTech because it combines technology, finance, and innovation. Through this class and my projects, I hope to expand my knowledge, improve my technical skills, and explore ways technology can help businesses and accounting professionals work more efficiently.
+
+For my project idea, I would like to build a housing management web application. The purpose of the app is to help property owners manage rooms and tenants more easily. The app will allow owners to track residents staying in each room, monitor rent payments, and check which rooms are occupied or vacant.
+
+Tenants will also be able to use the app to view available rooms, see what is included in each room, and request room transfers if needed. My goal is to create a simple and organized system that can make housing and payment management more efficient and convenient.
