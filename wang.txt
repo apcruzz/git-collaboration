@@ -1,0 +1,4 @@
+Aloha my name is Qunjing Wang
+
+My project will be about a store front to sell all kinds of ramen. The user can pick between what type
+of ramen they want, and ship it (like amazon)
