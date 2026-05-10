@@ -1,0 +1,4 @@
+Hello, my name is Andre Cruz. I am a Computer Science student at BYU–Hawaii.
+
+My final project idea is to create a national parks exploration web application with interactive maps and social media sharing 
+about everything they wanted to share about traveling in the US, their itinerary, experience, vlogs, pictures, reels, etc.
